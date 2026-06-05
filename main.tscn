@@ -11,7 +11,7 @@ position = Vector2(116, 234)
 sprite_frames = ExtResource("1_ig7tw")
 animation = &"idle"
 autoplay = "idle"
-frame_progress = 0.11482203
+frame_progress = 0.66001874
 
 [node name="MenuButton" type="MenuButton" parent="AnimatedSprite2D" unique_id=1374422908]
 anchors_preset = -1
